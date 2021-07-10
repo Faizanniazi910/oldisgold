@@ -75,7 +75,7 @@ logo = """
 \033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈✙◈━━━━━━━━━━━━━━━━━━━━▷\033[1;97m
 
 
-\033[1;96m(~)\033[1;97m Author : Faizi \033[1;97m[ \033[0;92mROCK \033[1;97m]
+\033[1;96m(~)\033[1;97m Author : Faizi \033[1;97m[ \033[0;92mJano Meri \033[1;97m]
 
 \033[1;96m(~)\033[1;97m Github : https://github.com/Faizanniazi910
 
@@ -124,7 +124,7 @@ def main_select():
 
     if Abdullah =="2":
 
-        os.system("xdg-open https://www.facebook.com/102864434780016/posts/336875814712209/?app=fbl")
+        os.system("xdg-open https://web.facebook.com/profile.php?id=100053819900992")
 
 	main()  
 
